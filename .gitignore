@@ -1,4 +1,10 @@
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+venv/
 .env
+*.whl
+cred.yml
+finv/
 venv/
