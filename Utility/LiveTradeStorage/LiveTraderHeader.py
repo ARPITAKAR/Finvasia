@@ -1,0 +1,12 @@
+class LiveTradeHeader:
+    TRADE_ID = "trade_id"
+    BROKER_NAME = "broker_name"
+    STRATEGY = "strategy"
+    SIGNAL = "signal"
+    SYMBOL = "symbol"
+    BUY_SELL = "buy_sell"
+    QUANTITY = "quantity"
+    ENTRY_PRICE = "entry_price"
+    EXIT_PRICE = "exit_price"
+    STATUS = "status"
+    Timestamp="TimeStamp"
