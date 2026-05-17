@@ -1,4 +1,7 @@
 import os
+from dotenv import load_dotenv  
+load_dotenv()
+
 instrument_list= ['EQ', 'INDEX']
 
 option_list= ['NIFTY','ULTRACEMCO']
